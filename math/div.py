@@ -1,4 +1,4 @@
 
-def div s(x, y):
+def div (x, y):
     return x / y
 

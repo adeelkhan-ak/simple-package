@@ -1,4 +1,4 @@
 import math
 
 def squareroot(n):
-    return math.sqrt(n)s
+    return math.sqrt(n)
